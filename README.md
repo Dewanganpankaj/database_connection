@@ -51,7 +51,7 @@ For connecting database with the project
 
 Add url and port in our env file :--
 PORT = 8000
-MONGODB_URI = mongodb+srv://pankaj:12345@cluster0.vw9mvou.mongodb.net
+MONGODB_URI = mongodb+srv://<username>:<password>@cluster0.vw9mvou.mongodb.net
 
 After that require packages :=
 1)	dotenv 
